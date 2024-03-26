@@ -11,12 +11,10 @@ The Predictive Analytics Dashboard is a web-based application designed to provid
 - **Customizable Dashboard**: Provides a customizable dashboard interface for users to view and interact with prediction results and market data.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
 - **Machine Learning**: Python, scikit-learn, TensorFlow
 - **Authentication**: JSON Web Tokens (JWT)
 - **Data Visualization**: Chart.js, D3.js
 
 ## Installation
 1. Clone the repository:
+2. Run it in Streamlit.
